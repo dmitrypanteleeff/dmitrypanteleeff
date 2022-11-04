@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmitrypanteleeff
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular
 
 <!---
 dmitrypanteleeff/dmitrypanteleeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
